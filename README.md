@@ -1,36 +1,16 @@
-# text
+# java
+>created by jemes gosling and sun microsystem.inc 
+>first stable release in 1995
+>
 
-_text_
+# java specs
+>interpreted and compiled 
+>general purpose 
+>multithreaded
 
-**text**
+# java architeture
+>java code run on java virtual machine (jvm)
+>java runtime enviroment contains jvm + lib.
+>java develoment kit contains jre + java development tool(compiler,debugger etc.)
 
-~~text~~
----
-# heading
-
-# heading
-
-## heading
-
-up to six
-
-# Quote
->this is quote
-
-# Copyright
-&copy;
-
-# link
-
-[google](https://www.google.com)
-
-![earth](https://www.sciencealert.com/the-earth-is-moving-substantially-less-because-of-the-global-pandemic)
-
-# Code
-```
-#include <stdio.h>
-int main()
-{
-return 0;
-}
-```
+# java syntex
