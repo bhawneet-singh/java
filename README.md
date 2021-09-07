@@ -25,3 +25,12 @@ up to six
 [google](https://www.google.com)
 
 ![earth](https://www.sciencealert.com/the-earth-is-moving-substantially-less-because-of-the-global-pandemic)
+
+# Code
+'''
+#include <stdio.h>
+int main()
+{
+return 0;
+}
+'''
