@@ -1,4 +1,4 @@
-#text
+# text
 
 _text_
 
@@ -6,10 +6,10 @@ _text_
 
 ~~text~~
 ---
-#heading
+# heading
 
-#heading
+# heading
 
-##heading
+## heading
 
 up to six
