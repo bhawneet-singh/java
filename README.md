@@ -22,4 +22,4 @@ up to six
 
 # link
 
-[google](https://www.google.com,"google")
+[google](https://www.google.com)
