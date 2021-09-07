@@ -1,2 +1,9 @@
-# java
->this is for my learning progress
+#text
+_text_
+**text**
+~~text~~
+---
+#heading
+#heading
+##heading
+up to six
